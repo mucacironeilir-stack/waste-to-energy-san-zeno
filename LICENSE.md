@@ -1,0 +1,7 @@
+# License
+
+Text, report and figures: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Lorenzo Giovani, Ilir Muça Cirone, Luca Termine
+
+Third-party material reproduced in the reports (figures, tables and photos from the cited sources) remains under its owners' terms.
